@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/r/001",
-      "destination": "https://taprizz-review.vercel.app/ng-ayurveda",
+      "destination": "https://reviews.taprizz.in/s/001",
       "permanent": false
     },
     {
       "source": "/r/002",
-      "destination": "https://taprizz-review.vercel.app/ng-ayurveda",
+      "destination": "https://reviews.taprizz.in/s/001",
       "permanent": false
     },
     {
