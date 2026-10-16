@@ -7,12 +7,12 @@
     },
     {
       "source": "/r/002",
-      "destination": "https://reviews.taprizz.in/s/001",
+      "destination": "https://smarty.taprizz.in/the-tattoo-cafe",
       "permanent": false
     },
     {
       "source": "/r/003",
-      "destination": "/unassigned.html",
+      "destination": "https://smarty.taprizz.in/the-tattoo-cafe",
       "permanent": false
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "source": "/r/005",
-      "destination": "https://search.google.com/local/writereview?placeid=ChIJKaExt3uxbTkRIsgQmISE1",
+      "destination": "https://smarty.taprizz.in/sq/002",
       "permanent": false
     },
     {
       "source": "/r/006",
-      "destination": "/unassigned.html",
+      "destination": "https://smarty.taprizz.in/the-tattoo-cafe",
       "permanent": false
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "source": "/r/009",
-      "destination": "https://smarty.taprizz.in/sq/002",
+      "destination": "https://smarty.taprizz.in/the-tattoo-cafe",
       "permanent": false
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "source": "/r/011",
-      "destination": "https://smarty.taprizz.in/sq/002",
+      "destination": "https://smarty.taprizz.in/the-tattoo-cafe",
       "permanent": false
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "source": "/r/013",
-      "destination": "/unassigned.html",
+      "destination": "https://smarty.taprizz.in/the-tattoo-cafe",
       "permanent": false
     },
     {
       "source": "/r/014",
-      "destination": "/unassigned.html",
+      "destination": "https://smarty.taprizz.in/the-tattoo-cafe",
       "permanent": false
     },
     {
