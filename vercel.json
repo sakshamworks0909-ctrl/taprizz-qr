@@ -37,12 +37,12 @@
     },
     {
       "source": "/r/008",
-      "destination": "/unassigned.html",
+      "destination": "https://smarty.taprizz.in/sq/002",
       "permanent": false
     },
     {
       "source": "/r/009",
-      "destination": "/unassigned.html",
+      "destination": "https://smarty.taprizz.in/sq/002",
       "permanent": false
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "source": "/r/011",
-      "destination": "/unassigned.html",
+      "destination": "https://smarty.taprizz.in/sq/002",
       "permanent": false
     },
     {
